@@ -1,8 +1,9 @@
 This is the playground which I made from scratch in about 24 hours as submission for the WWDC 2017 Scholarship.
 
 # Joys Breaker - To WWDC 2017 and Beyond! 🎮 👾 🎮 🤖
- developed by Andrea Vultaggio
- ---
+  
+  developed by Andrea Vultaggio
+ 
  ## What is this playground about?
  
  Joys Breaker is a game which came out casually during a brainstorming session with a tutor and a mate at the iOS Developer Academy in Naples. The original concept was about reverting the rules of the original *Breakout* game giving justice to all the destroyed bricks across the years!
