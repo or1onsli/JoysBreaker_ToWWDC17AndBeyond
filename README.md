@@ -15,10 +15,10 @@ This is the playground which I made from scratch in about 24 hours as submission
  
  To play this game is pretty simple. You have to click with the mouse near my figure to push me around the hall  with your 💪🏻 ***super-user-super-powers*** 💪🏻 and to help me go through security.
  
-  ## You only have *100* seconds to help me get in before the conference starts!  ⌚️
+- You only have *100* seconds to help me get in before the conference starts!  ⌚️
  
  The bad guys will push me against the objects at the top of the screen. Since I am stubborn every object that I hurt will break down into pieces (just like my heart if I don't get in 💔)...
  
-   ## If we break all the objects before the conference starts I will lose my chance to get in too.   👀
+- If we break all the objects before the conference starts I will lose my chance to get in too.   👀
  
- Now let's play! */
+ Now let's play!
