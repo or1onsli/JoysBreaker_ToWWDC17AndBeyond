@@ -1,7 +1,11 @@
-This is the playground which I made from scratch in about 24 hours as submission for the WWDC 2017 Scholarship.
+This is the playground which I made from scratch in about 24 hours as submission for the **WWDC 2017 Scholarship**.
 
 # Joys Breaker - To WWDC 2017 and Beyond! 🎮 👾 🎮 🤖
-developed by Andrea Vultaggio
+### developed by Andrea Vultaggio
+ 
+ ![Type](https://img.shields.io/badge/type-Playground-red.svg)
+ ![Language](https://img.shields.io/badge/language-Swift-orange.svg)
+ ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)
  
  ## What is this playground about?
  
@@ -20,4 +24,3 @@ The bad guys will push me against the objects at the top of the screen. Since I 
  
 - If we break all the objects before the conference starts I will lose my chance to get in too.   👀
  
-## Now let's play!
