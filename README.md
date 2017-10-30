@@ -1,5 +1,3 @@
-This is the playground which I made from scratch in about 24 hours as submission for the **WWDC 2017 Scholarship**.
-
 # Joys Breaker - To WWDC 2017 and Beyond! 🎮 👾 🎮 🤖
 ### developed by Andrea Vultaggio
  
@@ -7,9 +5,13 @@ This is the playground which I made from scratch in about 24 hours as submission
  ![Language](https://img.shields.io/badge/language-Swift-orange.svg)
  ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)
  
+ ## What kind of project is this?
+ 
+ This is the playground which I made from scratch in about 24 hours as submission for the **WWDC 2017 Scholarship**.
+ 
  ## What is this playground about?
  
-Joys Breaker is a game which came out casually during a brainstorming session with a tutor and a mate at the  Developer Academy in Naples. The original concept was about reverting the rules of the original *Breakout* game giving justice to all the destroyed bricks across the years!
+**Joys Breaker** is a game which came out casually during a brainstorming session with a tutor and a mate at the  Developer Academy in Naples. The original concept was about reverting the rules of the original *Breakout* game giving justice to all the destroyed bricks across the years!
  
 For this particular occasion I changed something introducing myself as **The Ball!** I'm there in front of six bodyguards who don't want to let me go into the Pantheon of the App Developers!
 *Help me to conquer the first WWDC of my life, let's get into the McEnery Convention Center*!
